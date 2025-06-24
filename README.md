@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janhavi Gangawane</h1>
 <h3 align="center">I'm an aspiring AI/ML engineer in my final year of college</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif+girl+for+github&sca_esv=4a4fe4777c84f5d2&hl=en-GB&udm=2&tbs=itp:animated&sxsrf=AE3TifMJ1-s3cB46vEqyRjrIZ_iwBc-omA:1750699467278&source=lnt&sa=X&biw=1200&bih=707&dpr=2&ved=2ahUKEwiYotCTiIiOAxUlamwGHVGzOWgQgowBegQICBAA#vhid=Ayf1SYgO6GGXAM&vssid=mosaic">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
 
 - 🔭 I’m currently working on **an agentic AI project**
 
