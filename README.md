@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **janhavig2004@gmail.com**
 
-- 📄 Know about my experiences [insert link](insert link)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1pcUugu5O0Agp11stgldarVAhUeFX_mVX?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
