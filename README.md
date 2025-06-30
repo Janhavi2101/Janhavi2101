@@ -1,7 +1,5 @@
 [![MasterHead](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Janhavi%20Gangawane&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlign=50&descAlignY=75&stroke=ffffff&strokeWidth=2)](https://www.linkedin.com/in/janhavi-gangawane-tsec/)<h1 align="center">Hi 👋, I'm Janhavi Gangawane</h1>
 <h3 align="center">I'm an aspiring AI/ML engineer in my final year of college</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" style="filter: brightness(60%); border-radius: 30px;" />
-
 - 🔭 I’m currently working on **an agentic AI project**
 
 - 🌱 I’m currently learning **how Generative AI works**
