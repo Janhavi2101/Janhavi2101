@@ -45,6 +45,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /></td>
 
+   <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></td>
 
 
   </tr>
@@ -57,6 +58,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></td>
    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" /></td>
+   <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" /></td>
 
 
 
