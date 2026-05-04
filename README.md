@@ -37,10 +37,10 @@
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></td>
-    <td><img src="C_ICON_URL" width="40" /></td>
-    <td><img src="CPP_ICON_URL" width="40" /></td>
-    <td><img src="CSS_ICON_URL" width="40" /></td>
-    <td><img src="GIT_ICON_URL" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></td>
   </tr>
   <tr>
     <td><img src="HTML_ICON_URL" width="40" /></td>
